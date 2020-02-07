@@ -7,7 +7,7 @@ require (
 	github.com/Microsoft/hcsshim v0.8.7 // indirect
 	github.com/containerd/containerd v1.3.3 // indirect
 	github.com/containerd/continuity v0.0.0-20200107194136-26c1120b8d41 // indirect
-	github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e
+	github.com/coreos/go-systemd/v22 v22.0.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker v1.4.2-0.20170802015333-8af4db6f002a
 	github.com/docker/go-connections v0.4.0
